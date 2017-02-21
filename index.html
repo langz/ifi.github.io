@@ -1,50 +1,165 @@
 <!doctype html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>Workshop @ IFI</title>
+	<link rel="stylesheet" href="css/reveal.css">
+	<link rel="stylesheet" href="css/theme/serif.css">
+	<!-- Theme used for syntax highlighting of code -->
+	<link rel="stylesheet" href="lib/css/zenburn.css">
+	<link rel="stylesheet" href="css/custom.css">
+	<!-- Printing and PDF exports -->
+	<script>
+		var link = document.createElement('link');
+		link.rel = 'stylesheet';
+		link.type = 'text/css';
+		link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+		document.getElementsByTagName('head')[0].appendChild(link);
+	</script>
+</head>
 
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css">
-
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
-
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
-			</div>
+<body>
+	<div class="reveal">
+		<div class="slides">
+			<section data-background-image="img/accenture.jpg" data-background-position>
+				<h1 class="header">The life of a Front-End Developer</h1>
+			</section>
+			<section>
+				<h4 style="margin-bottom:100px;">Who are we?</h4>
+				<div style="float:left">
+					<img class="profile" data-src="img/katrine.jpg">
+					<p>Katrine Orlova</p>
+					<p style="font-size:70%;">Something</p>
+				</div>
+				<div style="float:right">
+					<img class="profile" data-src="img/anders.jpg">
+					<p>Anders Langseth</p>
+					<p style="font-size:70%;">Something</p>
+				</div>
+			</section>
+			<!--<section data-background-video="img/intro.mp4"
+							data-background-video-loop>
+				</section>-->
+			<section data-background-image="img/frontenddevs.jpg" data-background-size="750px" data-background-position>
+			</section>
+			<section>
+				<h4>What Is a Front-End Developer?</h4>
+			</section>
+			<section data-background-color="#000000">
+				<video class="stretch" data-autoplay data-background-video-loop src="img/intro.mp4"></video>
+			</section>
+			<section>
+				<img data-src="img/front-end-dev1.png">
+			</section>
+			<section>
+				<h4>Front-End on a Team</h4>
+				<img data-src="img/team.png">
+				<div id="list">
+					<ul>
+						<li style="color:#0072BB;">UX-Designer</li>
+						<li style="color:#FF4C3B;">Back-End</li>
+						<li style="color:#FF6600;">Tester</li>
+						<li style="color:#6F3662;">Project Manager</li>
+						<li style="color:#FF7182;">Ops</li>
+					</ul>
+				</div>
+			</section>
+			<section>
+				<h4>Front-End Developers Develop For...</h4>
+				<div class="img-logo">
+					<img data-src="img/for/android.png">
+					<img data-src="img/for/ios.png">
+				</div>
+				<div class="img-logo">
+					<img data-src="img/for/chromium.png">
+					<img data-src="img/for/windows.png">
+				</div>
+			</section>
+			<section>
+				<h4>The Web</h4>
+				<img data-src="img/web.jpg">
+			</section>
+			<section data-background-image="img/devices.jpg">
+			</section>
+			<section>
+				<h4>Front-End Dev Skills</h4>
+				<img data-src="img/skills.png">
+			</section>
+			<section>
+				<h4>Web Technologies</h4>
+				<img data-src="img/HTML5_CSS_JavaScript.png" style="border:none; box-shadow: none;">
+			</section>
+			<section>
+				<h4>How Front-End Developers Are Made</h4>
+				<img data-src="img/done.png" style="border:none;">
+			</section>
+			<section data-background-color="white">
+				<div class="img-row">
+					<img data-src="img/learning/codeschool.png">
+					<img data-src="img/learning/codeacademy.png">
+				</div>
+				<div class="img-row">
+					<img data-src="img/learning/frontendmasters.png">
+					<img data-src="img/learning/pluralsight.png">
+				</div>
+				<div class="img-row">
+					<img data-src="img/learning/treehouse.png">
+					<img data-src="img/learning/udacity.jpg">
+				</div>
+			</section>
+			<section data-background-image="img/front-end-handbook.jpg">
+			</section>
+			<section data-background-image="img/spectrum.png">
+			</section>
+			<section>
+				<h4>Workshop</h4>
+				<div class="img-row">
+					<img data-src="img/htmlcss.png" style="border:none;  box-shadow: none;">
+					<img data-src="img/htmlcss.png" style="border:none;  box-shadow: none;">
+				</div>
+			</section>
+			<!--<section>Learn Web Browsers</section>
+			<section>Learn Web Developer Tools</section>
+			<section>Learn Web Hosting</section>
+			<section>Learn Accessibility</section>
+			<section>Learn HTML & CSS</section>
+			<section>Learn JavaScript</section>
+			<section>Tools of the trade</section>
+			<section>Front-End Jobs Titles</section>
+			<section>More Information</section>
+			<section>Workshop</section>-->
 		</div>
+	</div>
+	<script src="lib/js/head.min.js"></script>
+	<script src="js/reveal.js"></script>
+	<script>
+		// More info https://github.com/hakimel/reveal.js#configuration
+		Reveal.initialize({
+			history: true,
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
+			// More info https://github.com/hakimel/reveal.js#dependencies
+			dependencies: [{
+					src: 'plugin/markdown/marked.js'
+				},
+				{
+					src: 'plugin/markdown/markdown.js'
+				},
+				{
+					src: 'plugin/notes/notes.js',
+					async: true
+				},
+				{
+					src: 'plugin/highlight/highlight.js',
+					async: true,
+					callback: function () {
+						hljs.initHighlightingOnLoad();
+					}
+				}
+			]
+		});
+	</script>
+</body>
 
-		<script>
-			// More info https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				history: true,
-
-				// More info https://github.com/hakimel/reveal.js#dependencies
-				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
-			});
-		</script>
-	</body>
 </html>
