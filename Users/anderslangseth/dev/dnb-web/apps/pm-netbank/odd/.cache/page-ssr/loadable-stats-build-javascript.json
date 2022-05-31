@@ -1,6 +1,6 @@
 {
   "name": "build-javascript",
-  "hash": "3dd8fcca75fb59c0bd30",
+  "hash": "55583d99f20a19ab337d",
   "publicPath": "/",
   "outputPath": "/Users/anderslangseth/dev/dnb-web/apps/pm-netbank/odd/public",
   "assetsByChunkName": {
@@ -11,7 +11,7 @@
       "app-c2a481670be24717cb0b.js"
     ],
     "webpack-runtime": [
-      "webpack-runtime-41919892a787d441a59a.js"
+      "webpack-runtime-8d161b1ee5fbafce77bf.js"
     ],
     "layouts-layout-theme-second": [
       "layouts-layout-theme-second-98f655e2410ae0813cc2.js"
@@ -20,7 +20,7 @@
       "framework-d7a99b2260fd753c2009.js"
     ],
     "styles": [
-      "styles.d9f5e29ea3d526e17f02.css"
+      "styles.3bfd166f1958105ac68a.css"
     ]
   },
   "assets": [
@@ -55,14 +55,14 @@
     },
     {
       "type": "asset",
-      "name": "styles.d9f5e29ea3d526e17f02.css",
-      "size": 491781,
+      "name": "styles.3bfd166f1958105ac68a.css",
+      "size": 491769,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "d9f5e29ea3d526e17f02",
+        "contenthash": "3bfd166f1958105ac68a",
         "minimized": true
       },
       "chunkNames": [
@@ -619,18 +619,18 @@
     },
     {
       "type": "asset",
-      "name": "webpack-runtime-41919892a787d441a59a.js",
+      "name": "webpack-runtime-8d161b1ee5fbafce77bf.js",
       "size": 3898,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "41919892a787d441a59a",
+        "contenthash": "8d161b1ee5fbafce77bf",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "webpack-runtime-41919892a787d441a59a.js.map"
+          "sourceMap": "webpack-runtime-8d161b1ee5fbafce77bf.js.map"
         }
       },
       "chunkNames": [
@@ -761,7 +761,7 @@
       ],
       "assets": [
         {
-          "name": "webpack-runtime-41919892a787d441a59a.js"
+          "name": "webpack-runtime-8d161b1ee5fbafce77bf.js"
         },
         {
           "name": "polyfill-eff5516aecb98910eca6.js"
@@ -784,13 +784,13 @@
       ],
       "assets": [
         {
-          "name": "webpack-runtime-41919892a787d441a59a.js"
+          "name": "webpack-runtime-8d161b1ee5fbafce77bf.js"
         },
         {
           "name": "framework-d7a99b2260fd753c2009.js"
         },
         {
-          "name": "styles.d9f5e29ea3d526e17f02.css"
+          "name": "styles.3bfd166f1958105ac68a.css"
         },
         {
           "name": "app-c2a481670be24717cb0b.js"
@@ -877,7 +877,7 @@
     {
       "id": 658,
       "files": [
-        "webpack-runtime-41919892a787d441a59a.js"
+        "webpack-runtime-8d161b1ee5fbafce77bf.js"
       ]
     },
     {
@@ -913,7 +913,7 @@
     {
       "id": 532,
       "files": [
-        "styles.d9f5e29ea3d526e17f02.css"
+        "styles.3bfd166f1958105ac68a.css"
       ]
     }
   ]
