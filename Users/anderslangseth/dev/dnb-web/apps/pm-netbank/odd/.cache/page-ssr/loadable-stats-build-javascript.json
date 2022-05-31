@@ -1,0 +1,920 @@
+{
+  "name": "build-javascript",
+  "hash": "3dd8fcca75fb59c0bd30",
+  "publicPath": "/",
+  "outputPath": "/Users/anderslangseth/dev/dnb-web/apps/pm-netbank/odd/public",
+  "assetsByChunkName": {
+    "polyfill": [
+      "polyfill-eff5516aecb98910eca6.js"
+    ],
+    "app": [
+      "app-c2a481670be24717cb0b.js"
+    ],
+    "webpack-runtime": [
+      "webpack-runtime-41919892a787d441a59a.js"
+    ],
+    "layouts-layout-theme-second": [
+      "layouts-layout-theme-second-98f655e2410ae0813cc2.js"
+    ],
+    "framework": [
+      "framework-d7a99b2260fd753c2009.js"
+    ],
+    "styles": [
+      "styles.d9f5e29ea3d526e17f02.css"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "app-c2a481670be24717cb0b.js",
+      "size": 2376227,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "c2a481670be24717cb0b",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "app-c2a481670be24717cb0b.js.LICENSE.txt",
+          "sourceMap": "app-c2a481670be24717cb0b.js.map"
+        }
+      },
+      "chunkNames": [
+        "app"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 2,
+      "chunks": [
+        143
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "styles.d9f5e29ea3d526e17f02.css",
+      "size": 491781,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "d9f5e29ea3d526e17f02",
+        "minimized": true
+      },
+      "chunkNames": [
+        "styles"
+      ],
+      "chunkIdHints": [
+        "styles"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        532
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "framework-d7a99b2260fd753c2009.js",
+      "size": 129768,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "d7a99b2260fd753c2009",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "framework-d7a99b2260fd753c2009.js.LICENSE.txt",
+          "sourceMap": "framework-d7a99b2260fd753c2009.js.map"
+        }
+      },
+      "chunkNames": [
+        "framework"
+      ],
+      "chunkIdHints": [
+        "framework"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 2,
+      "chunks": [
+        774
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Medium-8d30b22d4ce585272e9905f9bdc8c75b.ttf",
+      "size": 109180,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNB-Medium.ttf"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Bold-14a475c28b37e391d7d510fda03162e6.ttf",
+      "size": 106240,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNB-Bold.ttf"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Regular-f364797131936f728edc6226da691b61.ttf",
+      "size": 106136,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNB-Regular.ttf"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNBMono-Regular-44317dd874e330d3f858d4490f776057.ttf",
+      "size": 91616,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNBMono-Regular.ttf"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "polyfill-eff5516aecb98910eca6.js",
+      "size": 85850,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "eff5516aecb98910eca6",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "sourceMap": "polyfill-eff5516aecb98910eca6.js.map"
+        }
+      },
+      "chunkNames": [
+        "polyfill"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        920
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Medium-7cce6852953c579bfbed4a607380a6b8.woff",
+      "size": 43848,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNB-Medium.woff"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Regular-a7ae8b2681fd8678c211233076f9f29c.woff",
+      "size": 43296,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNB-Regular.woff"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Bold-fa1efe4a49f2a9349c8fc11240b3395d.woff",
+      "size": 42524,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNB-Bold.woff"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNBMono-Regular-0d773822320524493918b50ce1d2e50c.woff",
+      "size": 41520,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNBMono-Regular.woff"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Medium-8e57bfcd9fcbc6f0e1160901cf7f1e98.woff2",
+      "size": 35384,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNB-Medium.woff2"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Regular-54d35ae78c18491c35feab30a836875a.woff2",
+      "size": 34980,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNB-Regular.woff2"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Bold-b402be656a707d3bbdcfe490893c5b5a.woff2",
+      "size": 34344,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNB-Bold.woff2"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNBMono-Regular-322db7bbbe1d833cb61311e4f598b3fb.woff2",
+      "size": 33444,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/DNBMono-Regular.woff2"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Skeleton-Regular-6833017d23ae067619cf62812bdfe3fc.woff",
+      "size": 32500,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/skeleton/DNB-Skeleton-Regular.woff"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Skeleton-Medium-af1fc67942f6dcdf5f0ddb788e9ca0c2.woff",
+      "size": 32488,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/skeleton/DNB-Skeleton-Medium.woff"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Skeleton-Bold-9a706b424b365246ded9848bd86749f7.woff",
+      "size": 32456,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/skeleton/DNB-Skeleton-Bold.woff"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Skeleton-Regular-6413549afe489fbece7d9f2f6599e0b8.ttf",
+      "size": 32428,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/skeleton/DNB-Skeleton-Regular.ttf"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Skeleton-Medium-cb5bc7ea097cc66ee718084f855200d6.ttf",
+      "size": 32416,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/skeleton/DNB-Skeleton-Medium.ttf"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNB-Skeleton-Bold-dea5951b0ce7201dfb97f0e59e12322a.ttf",
+      "size": 32384,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/skeleton/DNB-Skeleton-Bold.ttf"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNBMono-Skeleton-Regular-6f54ed4672cd18c82b5cdf0eeb9b341c.woff",
+      "size": 32164,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/skeleton/DNBMono-Skeleton-Regular.woff"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "static/DNBMono-Skeleton-Regular-736b23433c1cd1ecde728f67ea947986.ttf",
+      "size": 32092,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "sourceFilename": "../node_modules/@dnb/eufemia/assets/fonts/skeleton/DNBMono-Skeleton-Regular.ttf"
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [
+        "styles"
+      ],
+      "auxiliaryChunkIdHints": [
+        "styles"
+      ],
+      "chunks": [],
+      "auxiliaryChunks": [
+        532
+      ]
+    },
+    {
+      "type": "asset",
+      "name": "webpack-runtime-41919892a787d441a59a.js",
+      "size": 3898,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "41919892a787d441a59a",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "sourceMap": "webpack-runtime-41919892a787d441a59a.js.map"
+        }
+      },
+      "chunkNames": [
+        "webpack-runtime"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        658
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "733-c3695661a799132ea665.js",
+      "size": 3136,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "c3695661a799132ea665",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "sourceMap": "733-c3695661a799132ea665.js.map"
+        }
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        733
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "637-61f1c42b8431ab121d81.js",
+      "size": 1230,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "61f1c42b8431ab121d81",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "sourceMap": "637-61f1c42b8431ab121d81.js.map"
+        }
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        637
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "955-f381df2317ad25d95e88.js",
+      "size": 812,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "f381df2317ad25d95e88",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "sourceMap": "955-f381df2317ad25d95e88.js.map"
+        }
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        955
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "layouts-layout-theme-second-98f655e2410ae0813cc2.js",
+      "size": 455,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "98f655e2410ae0813cc2",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "sourceMap": "layouts-layout-theme-second-98f655e2410ae0813cc2.js.map"
+        }
+      },
+      "chunkNames": [
+        "layouts-layout-theme-second"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        200
+      ],
+      "auxiliaryChunks": []
+    }
+  ],
+  "namedChunkGroups": {
+    "polyfill": {
+      "name": "polyfill",
+      "chunks": [
+        658,
+        920
+      ],
+      "assets": [
+        {
+          "name": "webpack-runtime-41919892a787d441a59a.js"
+        },
+        {
+          "name": "polyfill-eff5516aecb98910eca6.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 2,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "app": {
+      "name": "app",
+      "chunks": [
+        658,
+        774,
+        532,
+        143
+      ],
+      "assets": [
+        {
+          "name": "webpack-runtime-41919892a787d441a59a.js"
+        },
+        {
+          "name": "framework-d7a99b2260fd753c2009.js"
+        },
+        {
+          "name": "styles.d9f5e29ea3d526e17f02.css"
+        },
+        {
+          "name": "app-c2a481670be24717cb0b.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 23,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "layouts-layout-theme-default": {
+      "name": "layouts-layout-theme-default",
+      "chunks": [],
+      "assets": [],
+      "filteredAssets": 0,
+      "assetsSize": 0,
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {}
+    },
+    "layouts-layout-theme-default-js": {
+      "name": "layouts-layout-theme-default-js",
+      "chunks": [],
+      "assets": [],
+      "filteredAssets": 0,
+      "assetsSize": 0,
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {}
+    },
+    "layouts-layout-theme-second": {
+      "name": "layouts-layout-theme-second",
+      "chunks": [
+        200
+      ],
+      "assets": [
+        {
+          "name": "layouts-layout-theme-second-98f655e2410ae0813cc2.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "layouts-layout-theme-second-js": {
+      "name": "layouts-layout-theme-second-js",
+      "chunks": [
+        200
+      ],
+      "assets": [
+        {
+          "name": "layouts-layout-theme-second-98f655e2410ae0813cc2.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": 920,
+      "files": [
+        "polyfill-eff5516aecb98910eca6.js"
+      ]
+    },
+    {
+      "id": 143,
+      "files": [
+        "app-c2a481670be24717cb0b.js"
+      ]
+    },
+    {
+      "id": 658,
+      "files": [
+        "webpack-runtime-41919892a787d441a59a.js"
+      ]
+    },
+    {
+      "id": 200,
+      "files": [
+        "layouts-layout-theme-second-98f655e2410ae0813cc2.js"
+      ]
+    },
+    {
+      "id": 733,
+      "files": [
+        "733-c3695661a799132ea665.js"
+      ]
+    },
+    {
+      "id": 637,
+      "files": [
+        "637-61f1c42b8431ab121d81.js"
+      ]
+    },
+    {
+      "id": 955,
+      "files": [
+        "955-f381df2317ad25d95e88.js"
+      ]
+    },
+    {
+      "id": 774,
+      "files": [
+        "framework-d7a99b2260fd753c2009.js"
+      ]
+    },
+    {
+      "id": 532,
+      "files": [
+        "styles.d9f5e29ea3d526e17f02.css"
+      ]
+    }
+  ]
+}
