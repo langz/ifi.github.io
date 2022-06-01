@@ -1,6 +1,6 @@
 {
   "name": "build-javascript",
-  "hash": "088a9d09cab605a43302",
+  "hash": "50c58767302b74b11e33",
   "publicPath": "/",
   "outputPath": "/Users/anderslangseth/dev/dnb-web/apps/pm-netbank/odd/public",
   "assetsByChunkName": {
@@ -8,10 +8,10 @@
       "polyfill-eff5516aecb98910eca6.js"
     ],
     "app": [
-      "app-070bf09cf12f56a8f888.js"
+      "app-0f6ef5fd5b8f71b6707a.js"
     ],
     "webpack-runtime": [
-      "webpack-runtime-455b780ea1f6e4e66a32.js"
+      "webpack-runtime-c19ad6f3607ea0ebeb66.js"
     ],
     "layouts-layout-theme-second": [
       "layouts-layout-theme-second-98f655e2410ae0813cc2.js"
@@ -20,25 +20,25 @@
       "framework-d7a99b2260fd753c2009.js"
     ],
     "styles": [
-      "styles.275e1d42f42c5afd2371.css"
+      "styles.02bee2dfb31a73af074b.css"
     ]
   },
   "assets": [
     {
       "type": "asset",
-      "name": "app-070bf09cf12f56a8f888.js",
-      "size": 2378638,
+      "name": "app-0f6ef5fd5b8f71b6707a.js",
+      "size": 2390321,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "070bf09cf12f56a8f888",
+        "contenthash": "0f6ef5fd5b8f71b6707a",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "license": "app-070bf09cf12f56a8f888.js.LICENSE.txt",
-          "sourceMap": "app-070bf09cf12f56a8f888.js.map"
+          "license": "app-0f6ef5fd5b8f71b6707a.js.LICENSE.txt",
+          "sourceMap": "app-0f6ef5fd5b8f71b6707a.js.map"
         }
       },
       "chunkNames": [
@@ -55,14 +55,14 @@
     },
     {
       "type": "asset",
-      "name": "styles.275e1d42f42c5afd2371.css",
-      "size": 491937,
+      "name": "styles.02bee2dfb31a73af074b.css",
+      "size": 492132,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "275e1d42f42c5afd2371",
+        "contenthash": "02bee2dfb31a73af074b",
         "minimized": true
       },
       "chunkNames": [
@@ -619,18 +619,18 @@
     },
     {
       "type": "asset",
-      "name": "webpack-runtime-455b780ea1f6e4e66a32.js",
+      "name": "webpack-runtime-c19ad6f3607ea0ebeb66.js",
       "size": 3898,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "455b780ea1f6e4e66a32",
+        "contenthash": "c19ad6f3607ea0ebeb66",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "webpack-runtime-455b780ea1f6e4e66a32.js.map"
+          "sourceMap": "webpack-runtime-c19ad6f3607ea0ebeb66.js.map"
         }
       },
       "chunkNames": [
@@ -761,7 +761,7 @@
       ],
       "assets": [
         {
-          "name": "webpack-runtime-455b780ea1f6e4e66a32.js"
+          "name": "webpack-runtime-c19ad6f3607ea0ebeb66.js"
         },
         {
           "name": "polyfill-eff5516aecb98910eca6.js"
@@ -784,16 +784,16 @@
       ],
       "assets": [
         {
-          "name": "webpack-runtime-455b780ea1f6e4e66a32.js"
+          "name": "webpack-runtime-c19ad6f3607ea0ebeb66.js"
         },
         {
           "name": "framework-d7a99b2260fd753c2009.js"
         },
         {
-          "name": "styles.275e1d42f42c5afd2371.css"
+          "name": "styles.02bee2dfb31a73af074b.css"
         },
         {
-          "name": "app-070bf09cf12f56a8f888.js"
+          "name": "app-0f6ef5fd5b8f71b6707a.js"
         }
       ],
       "filteredAssets": 0,
@@ -871,13 +871,13 @@
     {
       "id": 143,
       "files": [
-        "app-070bf09cf12f56a8f888.js"
+        "app-0f6ef5fd5b8f71b6707a.js"
       ]
     },
     {
       "id": 658,
       "files": [
-        "webpack-runtime-455b780ea1f6e4e66a32.js"
+        "webpack-runtime-c19ad6f3607ea0ebeb66.js"
       ]
     },
     {
@@ -913,7 +913,7 @@
     {
       "id": 532,
       "files": [
-        "styles.275e1d42f42c5afd2371.css"
+        "styles.02bee2dfb31a73af074b.css"
       ]
     }
   ]
