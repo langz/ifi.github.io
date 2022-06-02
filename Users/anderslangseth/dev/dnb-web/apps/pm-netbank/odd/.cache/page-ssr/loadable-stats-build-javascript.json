@@ -1,6 +1,6 @@
 {
   "name": "build-javascript",
-  "hash": "1e42be0bd7a20dbbb9ae",
+  "hash": "dc7057b082e42b705229",
   "publicPath": "/",
   "outputPath": "/Users/anderslangseth/dev/dnb-web/apps/pm-netbank/odd/public",
   "assetsByChunkName": {
@@ -8,10 +8,10 @@
       "polyfill-eff5516aecb98910eca6.js"
     ],
     "app": [
-      "app-8d3dcaa6cf9c7e7efd03.js"
+      "app-49118cda4601e905c065.js"
     ],
     "webpack-runtime": [
-      "webpack-runtime-19c6bddf67bf53bdfc09.js"
+      "webpack-runtime-7031170f831abce1ad48.js"
     ],
     "layouts-layout-theme-second": [
       "layouts-layout-theme-second-98f655e2410ae0813cc2.js"
@@ -20,25 +20,25 @@
       "framework-d7a99b2260fd753c2009.js"
     ],
     "styles": [
-      "styles.c5b19a938470b2262346.css"
+      "styles.9092e3590f3742104cb1.css"
     ]
   },
   "assets": [
     {
       "type": "asset",
-      "name": "app-8d3dcaa6cf9c7e7efd03.js",
-      "size": 2393445,
+      "name": "app-49118cda4601e905c065.js",
+      "size": 2393767,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "8d3dcaa6cf9c7e7efd03",
+        "contenthash": "49118cda4601e905c065",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "license": "app-8d3dcaa6cf9c7e7efd03.js.LICENSE.txt",
-          "sourceMap": "app-8d3dcaa6cf9c7e7efd03.js.map"
+          "license": "app-49118cda4601e905c065.js.LICENSE.txt",
+          "sourceMap": "app-49118cda4601e905c065.js.map"
         }
       },
       "chunkNames": [
@@ -55,14 +55,14 @@
     },
     {
       "type": "asset",
-      "name": "styles.c5b19a938470b2262346.css",
-      "size": 493146,
+      "name": "styles.9092e3590f3742104cb1.css",
+      "size": 493270,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "c5b19a938470b2262346",
+        "contenthash": "9092e3590f3742104cb1",
         "minimized": true
       },
       "chunkNames": [
@@ -619,18 +619,18 @@
     },
     {
       "type": "asset",
-      "name": "webpack-runtime-19c6bddf67bf53bdfc09.js",
+      "name": "webpack-runtime-7031170f831abce1ad48.js",
       "size": 3898,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "19c6bddf67bf53bdfc09",
+        "contenthash": "7031170f831abce1ad48",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "webpack-runtime-19c6bddf67bf53bdfc09.js.map"
+          "sourceMap": "webpack-runtime-7031170f831abce1ad48.js.map"
         }
       },
       "chunkNames": [
@@ -761,7 +761,7 @@
       ],
       "assets": [
         {
-          "name": "webpack-runtime-19c6bddf67bf53bdfc09.js"
+          "name": "webpack-runtime-7031170f831abce1ad48.js"
         },
         {
           "name": "polyfill-eff5516aecb98910eca6.js"
@@ -784,16 +784,16 @@
       ],
       "assets": [
         {
-          "name": "webpack-runtime-19c6bddf67bf53bdfc09.js"
+          "name": "webpack-runtime-7031170f831abce1ad48.js"
         },
         {
           "name": "framework-d7a99b2260fd753c2009.js"
         },
         {
-          "name": "styles.c5b19a938470b2262346.css"
+          "name": "styles.9092e3590f3742104cb1.css"
         },
         {
-          "name": "app-8d3dcaa6cf9c7e7efd03.js"
+          "name": "app-49118cda4601e905c065.js"
         }
       ],
       "filteredAssets": 0,
@@ -871,13 +871,13 @@
     {
       "id": 143,
       "files": [
-        "app-8d3dcaa6cf9c7e7efd03.js"
+        "app-49118cda4601e905c065.js"
       ]
     },
     {
       "id": 658,
       "files": [
-        "webpack-runtime-19c6bddf67bf53bdfc09.js"
+        "webpack-runtime-7031170f831abce1ad48.js"
       ]
     },
     {
@@ -913,7 +913,7 @@
     {
       "id": 532,
       "files": [
-        "styles.c5b19a938470b2262346.css"
+        "styles.9092e3590f3742104cb1.css"
       ]
     }
   ]
