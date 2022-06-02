@@ -1,6 +1,6 @@
 {
   "name": "build-javascript",
-  "hash": "338ceaa6272208f02827",
+  "hash": "605c7be963aec15fe6ff",
   "publicPath": "/",
   "outputPath": "/Users/anderslangseth/dev/dnb-web/apps/pm-netbank/odd/public",
   "assetsByChunkName": {
@@ -8,7 +8,7 @@
       "polyfill-eff5516aecb98910eca6.js"
     ],
     "app": [
-      "app-48766fbacfb9b68dc537.js"
+      "app-d21cb3e5f5dfdbc723bb.js"
     ],
     "webpack-runtime": [
       "webpack-runtime-89293c6866604c856521.js"
@@ -26,19 +26,19 @@
   "assets": [
     {
       "type": "asset",
-      "name": "app-48766fbacfb9b68dc537.js",
-      "size": 2397049,
+      "name": "app-d21cb3e5f5dfdbc723bb.js",
+      "size": 2397187,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "48766fbacfb9b68dc537",
+        "contenthash": "d21cb3e5f5dfdbc723bb",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "license": "app-48766fbacfb9b68dc537.js.LICENSE.txt",
-          "sourceMap": "app-48766fbacfb9b68dc537.js.map"
+          "license": "app-d21cb3e5f5dfdbc723bb.js.LICENSE.txt",
+          "sourceMap": "app-d21cb3e5f5dfdbc723bb.js.map"
         }
       },
       "chunkNames": [
@@ -793,7 +793,7 @@
           "name": "styles.af19d5f353e57a3c0774.css"
         },
         {
-          "name": "app-48766fbacfb9b68dc537.js"
+          "name": "app-d21cb3e5f5dfdbc723bb.js"
         }
       ],
       "filteredAssets": 0,
@@ -871,7 +871,7 @@
     {
       "id": 143,
       "files": [
-        "app-48766fbacfb9b68dc537.js"
+        "app-d21cb3e5f5dfdbc723bb.js"
       ]
     },
     {
