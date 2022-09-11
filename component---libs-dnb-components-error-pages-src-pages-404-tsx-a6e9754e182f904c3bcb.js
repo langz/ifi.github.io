@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[6],{72993:function(t,e,_){_.r(e),_.d(e,{default:function(){return r}});var n=_(32735),u=_(96645);function r(){return n.createElement(u.Z,{status:"404"})}r.displayName="PageNotFound"}}]);
+//# sourceMappingURL=component---libs-dnb-components-error-pages-src-pages-404-tsx-a6e9754e182f904c3bcb.js.map

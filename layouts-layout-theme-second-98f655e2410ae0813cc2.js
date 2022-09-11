@@ -1,2 +1,0 @@
-"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[200],{57799:function(e,t,r){r.r(t),r.d(t,{default:function(){return c}});var n=r(66017),l=r(32735),_=r(3312),u=r(6696),a=["children"];function c(e){var t=e.children,r=(0,n.Z)(e,a);return l.createElement(u.default,r,l.createElement(_.default,r),l.createElement(u.AppsWrapper,null,t))}}}]);
-//# sourceMappingURL=layouts-layout-theme-second-98f655e2410ae0813cc2.js.map
