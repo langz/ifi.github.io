@@ -1,6 +1,6 @@
 {
   "name": "build-javascript",
-  "hash": "a18f25c9dc12db25e0c5",
+  "hash": "729a078d8ba4ed592a71",
   "publicPath": "/",
   "outputPath": "/Users/anderslangseth/dev/dnb-web/apps/pm-netbank/odd/public",
   "assetsByChunkName": {
@@ -8,10 +8,10 @@
       "polyfill-eff5516aecb98910eca6.js"
     ],
     "app": [
-      "app-580eb3f838226afadd88.js"
+      "app-50b251d4712d468950b9.js"
     ],
     "webpack-runtime": [
-      "webpack-runtime-71a4b91f24295ff4b826.js"
+      "webpack-runtime-377b37810be434a42098.js"
     ],
     "component---libs-dnb-components-error-pages-src-pages-404-tsx": [
       "component---libs-dnb-components-error-pages-src-pages-404-tsx-a6e9754e182f904c3bcb.js"
@@ -29,7 +29,7 @@
       "component---src-pages-index-tsx-67ed153174fe2a082cd3.js"
     ],
     "component---src-pages-odd-form-index-tsx": [
-      "component---src-pages-odd-form-index-tsx-9f624599df5018dbfe54.js"
+      "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js"
     ],
     "component---src-pages-odd-index-tsx": [
       "component---src-pages-odd-index-tsx-db0dfd477b8bb5d9027c.js"
@@ -56,19 +56,19 @@
   "assets": [
     {
       "type": "asset",
-      "name": "app-580eb3f838226afadd88.js",
-      "size": 1066346,
+      "name": "app-50b251d4712d468950b9.js",
+      "size": 1071659,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "580eb3f838226afadd88",
+        "contenthash": "50b251d4712d468950b9",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "license": "app-580eb3f838226afadd88.js.LICENSE.txt",
-          "sourceMap": "app-580eb3f838226afadd88.js.map"
+          "license": "app-50b251d4712d468950b9.js.LICENSE.txt",
+          "sourceMap": "app-50b251d4712d468950b9.js.map"
         }
       },
       "chunkNames": [
@@ -107,19 +107,19 @@
     },
     {
       "type": "asset",
-      "name": "component---src-pages-odd-form-index-tsx-9f624599df5018dbfe54.js",
-      "size": 676585,
+      "name": "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js",
+      "size": 677784,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "9f624599df5018dbfe54",
+        "contenthash": "f3f7a19f460fdd797aac",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "license": "component---src-pages-odd-form-index-tsx-9f624599df5018dbfe54.js.LICENSE.txt",
-          "sourceMap": "component---src-pages-odd-form-index-tsx-9f624599df5018dbfe54.js.map"
+          "license": "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js.LICENSE.txt",
+          "sourceMap": "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js.map"
         }
       },
       "chunkNames": [
@@ -1055,18 +1055,18 @@
     },
     {
       "type": "asset",
-      "name": "webpack-runtime-71a4b91f24295ff4b826.js",
+      "name": "webpack-runtime-377b37810be434a42098.js",
       "size": 5767,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "71a4b91f24295ff4b826",
+        "contenthash": "377b37810be434a42098",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "webpack-runtime-71a4b91f24295ff4b826.js.map"
+          "sourceMap": "webpack-runtime-377b37810be434a42098.js.map"
         }
       },
       "chunkNames": [
@@ -1366,7 +1366,7 @@
       ],
       "assets": [
         {
-          "name": "webpack-runtime-71a4b91f24295ff4b826.js"
+          "name": "webpack-runtime-377b37810be434a42098.js"
         },
         {
           "name": "polyfill-eff5516aecb98910eca6.js"
@@ -1389,7 +1389,7 @@
       ],
       "assets": [
         {
-          "name": "webpack-runtime-71a4b91f24295ff4b826.js"
+          "name": "webpack-runtime-377b37810be434a42098.js"
         },
         {
           "name": "styles.609abb593ebe18e72668.css"
@@ -1398,7 +1398,7 @@
           "name": "framework-d7a99b2260fd753c2009.js"
         },
         {
-          "name": "app-580eb3f838226afadd88.js"
+          "name": "app-50b251d4712d468950b9.js"
         }
       ],
       "filteredAssets": 0,
@@ -1556,7 +1556,7 @@
           "name": "9a759d7050e6a5322085db5c1231f6715327cfc9-ef84d0817e823c781245.js"
         },
         {
-          "name": "component---src-pages-odd-form-index-tsx-9f624599df5018dbfe54.js"
+          "name": "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js"
         }
       ],
       "filteredAssets": 0,
@@ -1632,13 +1632,13 @@
     {
       "id": 143,
       "files": [
-        "app-580eb3f838226afadd88.js"
+        "app-50b251d4712d468950b9.js"
       ]
     },
     {
       "id": 658,
       "files": [
-        "webpack-runtime-71a4b91f24295ff4b826.js"
+        "webpack-runtime-377b37810be434a42098.js"
       ]
     },
     {
@@ -1692,7 +1692,7 @@
     {
       "id": 444,
       "files": [
-        "component---src-pages-odd-form-index-tsx-9f624599df5018dbfe54.js"
+        "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js"
       ]
     },
     {
