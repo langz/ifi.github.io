@@ -1,6 +1,6 @@
 {
   "name": "build-javascript",
-  "hash": "729a078d8ba4ed592a71",
+  "hash": "a2eda5c89fa828c1dd04",
   "publicPath": "/",
   "outputPath": "/Users/anderslangseth/dev/dnb-web/apps/pm-netbank/odd/public",
   "assetsByChunkName": {
@@ -8,10 +8,10 @@
       "polyfill-eff5516aecb98910eca6.js"
     ],
     "app": [
-      "app-50b251d4712d468950b9.js"
+      "app-6949eb4b851225cf9f7d.js"
     ],
     "webpack-runtime": [
-      "webpack-runtime-377b37810be434a42098.js"
+      "webpack-runtime-6f2a493c2a040fd877cb.js"
     ],
     "component---libs-dnb-components-error-pages-src-pages-404-tsx": [
       "component---libs-dnb-components-error-pages-src-pages-404-tsx-a6e9754e182f904c3bcb.js"
@@ -26,49 +26,46 @@
       "component---libs-dnb-gatsby-themes-spa-build-src-pages-500-tsx-40e0cd7c2f2a9bb87717.js"
     ],
     "component---src-pages-index-tsx": [
-      "component---src-pages-index-tsx-67ed153174fe2a082cd3.js"
+      "component---src-pages-index-tsx-c06833d07223f33efcf4.js"
     ],
     "component---src-pages-odd-form-index-tsx": [
-      "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js"
+      "component---src-pages-odd-form-index-tsx-4e19be5e2aeb8194236d.js"
     ],
     "component---src-pages-odd-index-tsx": [
-      "component---src-pages-odd-index-tsx-db0dfd477b8bb5d9027c.js"
-    ],
-    "component---src-pages-odd-thanks-index-tsx": [
-      "component---src-pages-odd-thanks-index-tsx-d924ea3db5eaf170a4fd.js"
+      "component---src-pages-odd-index-tsx-654eeeb8ae9b65616c23.js"
     ],
     "styles": [
-      "styles.609abb593ebe18e72668.css"
+      "styles.e7ee6e1a688e004a3bef.css"
     ],
     "framework": [
       "framework-d7a99b2260fd753c2009.js"
     ],
     "commons": [
-      "commons-820aac0dd3e9ef2b7f55.js"
+      "commons-599ab301f603d173641d.js"
     ],
     "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc": [
-      "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-2ded3eb74ebe1ab501c4.js"
+      "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-c8c6d75b3284b3d56191.js"
     ],
     "9a759d7050e6a5322085db5c1231f6715327cfc9": [
-      "9a759d7050e6a5322085db5c1231f6715327cfc9-ef84d0817e823c781245.js"
+      "9a759d7050e6a5322085db5c1231f6715327cfc9-9d34372d67e52cb27014.js"
     ]
   },
   "assets": [
     {
       "type": "asset",
-      "name": "app-50b251d4712d468950b9.js",
-      "size": 1071659,
+      "name": "app-6949eb4b851225cf9f7d.js",
+      "size": 1128587,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "50b251d4712d468950b9",
+        "contenthash": "6949eb4b851225cf9f7d",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "license": "app-50b251d4712d468950b9.js.LICENSE.txt",
-          "sourceMap": "app-50b251d4712d468950b9.js.map"
+          "license": "app-6949eb4b851225cf9f7d.js.LICENSE.txt",
+          "sourceMap": "app-6949eb4b851225cf9f7d.js.map"
         }
       },
       "chunkNames": [
@@ -85,70 +82,19 @@
     },
     {
       "type": "asset",
-      "name": "static/coupleHugging-f846cfa9cba246fd81fbcb8a1efe8f0d.png",
-      "size": 933363,
+      "name": "9a759d7050e6a5322085db5c1231f6715327cfc9-9d34372d67e52cb27014.js",
+      "size": 606657,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/CoupleHugging/coupleHugging.png"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js",
-      "size": 677784,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "contenthash": "f3f7a19f460fdd797aac",
+        "contenthash": "9d34372d67e52cb27014",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "license": "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js.LICENSE.txt",
-          "sourceMap": "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js.map"
-        }
-      },
-      "chunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "filteredRelated": 2,
-      "chunks": [
-        444
-      ],
-      "auxiliaryChunks": []
-    },
-    {
-      "type": "asset",
-      "name": "9a759d7050e6a5322085db5c1231f6715327cfc9-ef84d0817e823c781245.js",
-      "size": 594870,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "contenthash": "ef84d0817e823c781245",
-        "javascriptModule": false,
-        "minimized": true,
-        "related": {
-          "license": "9a759d7050e6a5322085db5c1231f6715327cfc9-ef84d0817e823c781245.js.LICENSE.txt",
-          "sourceMap": "9a759d7050e6a5322085db5c1231f6715327cfc9-ef84d0817e823c781245.js.map"
+          "license": "9a759d7050e6a5322085db5c1231f6715327cfc9-9d34372d67e52cb27014.js.LICENSE.txt",
+          "sourceMap": "9a759d7050e6a5322085db5c1231f6715327cfc9-9d34372d67e52cb27014.js.map"
         }
       },
       "chunkNames": [
@@ -167,14 +113,43 @@
     },
     {
       "type": "asset",
-      "name": "styles.609abb593ebe18e72668.css",
-      "size": 554416,
+      "name": "component---src-pages-odd-form-index-tsx-4e19be5e2aeb8194236d.js",
+      "size": 580790,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "609abb593ebe18e72668",
+        "contenthash": "4e19be5e2aeb8194236d",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "component---src-pages-odd-form-index-tsx-4e19be5e2aeb8194236d.js.LICENSE.txt",
+          "sourceMap": "component---src-pages-odd-form-index-tsx-4e19be5e2aeb8194236d.js.map"
+        }
+      },
+      "chunkNames": [
+        "component---src-pages-odd-form-index-tsx"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 2,
+      "chunks": [
+        444
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "styles.e7ee6e1a688e004a3bef.css",
+      "size": 516316,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "immutable": true,
+        "contenthash": "e7ee6e1a688e004a3bef",
         "minimized": true
       },
       "chunkNames": [
@@ -189,28 +164,6 @@
         532
       ],
       "auxiliaryChunks": []
-    },
-    {
-      "type": "asset",
-      "name": "static/girlOnBoat-bfdb383ab5ce321fec39fc983ff1d93f.jpg",
-      "size": 394907,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/GirlOnBoat/girlOnBoat.jpg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
     },
     {
       "type": "asset",
@@ -245,18 +198,18 @@
     },
     {
       "type": "asset",
-      "name": "commons-820aac0dd3e9ef2b7f55.js",
-      "size": 121078,
+      "name": "commons-599ab301f603d173641d.js",
+      "size": 118979,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "820aac0dd3e9ef2b7f55",
+        "contenthash": "599ab301f603d173641d",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "commons-820aac0dd3e9ef2b7f55.js.map"
+          "sourceMap": "commons-599ab301f603d173641d.js.map"
         }
       },
       "chunkNames": [
@@ -396,28 +349,6 @@
         920
       ],
       "auxiliaryChunks": []
-    },
-    {
-      "type": "asset",
-      "name": "static/fixedInterest.73f00b39.svg",
-      "size": 47963,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/FixedInterestImage/fixedInterest.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
     },
     {
       "type": "asset",
@@ -585,28 +516,6 @@
       "chunks": [],
       "auxiliaryChunks": [
         532
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "static/mailbox.02fd2940.svg",
-      "size": 33589,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/EmptyMailBoxImage/mailbox.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
       ]
     },
     {
@@ -827,18 +736,18 @@
     },
     {
       "type": "asset",
-      "name": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-2ded3eb74ebe1ab501c4.js",
-      "size": 22689,
+      "name": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-c8c6d75b3284b3d56191.js",
+      "size": 20655,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "2ded3eb74ebe1ab501c4",
+        "contenthash": "c8c6d75b3284b3d56191",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-2ded3eb74ebe1ab501c4.js.map"
+          "sourceMap": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-c8c6d75b3284b3d56191.js.map"
         }
       },
       "chunkNames": [
@@ -857,216 +766,18 @@
     },
     {
       "type": "asset",
-      "name": "static/officeChat.6172dc95.svg",
-      "size": 19454,
+      "name": "webpack-runtime-6f2a493c2a040fd877cb.js",
+      "size": 5691,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/OfficeChatImage/officeChat.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "static/fundsmarket.67814968.svg",
-      "size": 16190,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/FundsMarketImage/fundsmarket.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "static/moneybag.67814968.svg",
-      "size": 16190,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/MoneyBagImage/moneybag.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "static/lost_connection.d15d91ef.svg",
-      "size": 14489,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/LostConnectionImage/lost_connection.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "static/calculator.c412ae94.svg",
-      "size": 13615,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/CalculatorImage/calculator.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "static/pointingPerson.63c621eb.svg",
-      "size": 12554,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/PointingPersonImage/pointingPerson.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "static/documents.1a970c31.svg",
-      "size": 12030,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/DocumentsImage/documents.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "static/fly.2b260994.svg",
-      "size": 11905,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/FlyImage/fly.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "static/workingPeople.1692ee4c.svg",
-      "size": 10326,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "sourceFilename": "../../../libs/pm-netbank/components/src/lib/Images/WorkingPeopleImage/workingPeople.svg"
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [
-        "component---src-pages-odd-form-index-tsx"
-      ],
-      "auxiliaryChunkIdHints": [],
-      "chunks": [],
-      "auxiliaryChunks": [
-        444
-      ]
-    },
-    {
-      "type": "asset",
-      "name": "webpack-runtime-377b37810be434a42098.js",
-      "size": 5767,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "contenthash": "377b37810be434a42098",
+        "contenthash": "6f2a493c2a040fd877cb",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "webpack-runtime-377b37810be434a42098.js.map"
+          "sourceMap": "webpack-runtime-6f2a493c2a040fd877cb.js.map"
         }
       },
       "chunkNames": [
@@ -1083,46 +794,18 @@
     },
     {
       "type": "asset",
-      "name": "component---src-pages-odd-thanks-index-tsx-d924ea3db5eaf170a4fd.js",
-      "size": 5670,
+      "name": "component---src-pages-index-tsx-c06833d07223f33efcf4.js",
+      "size": 3350,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "d924ea3db5eaf170a4fd",
+        "contenthash": "c06833d07223f33efcf4",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "component---src-pages-odd-thanks-index-tsx-d924ea3db5eaf170a4fd.js.map"
-        }
-      },
-      "chunkNames": [
-        "component---src-pages-odd-thanks-index-tsx"
-      ],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "filteredRelated": 1,
-      "chunks": [
-        239
-      ],
-      "auxiliaryChunks": []
-    },
-    {
-      "type": "asset",
-      "name": "component---src-pages-index-tsx-67ed153174fe2a082cd3.js",
-      "size": 3507,
-      "emitted": false,
-      "comparedForEmit": false,
-      "cached": true,
-      "info": {
-        "immutable": true,
-        "contenthash": "67ed153174fe2a082cd3",
-        "javascriptModule": false,
-        "minimized": true,
-        "related": {
-          "sourceMap": "component---src-pages-index-tsx-67ed153174fe2a082cd3.js.map"
+          "sourceMap": "component---src-pages-index-tsx-c06833d07223f33efcf4.js.map"
         }
       },
       "chunkNames": [
@@ -1140,18 +823,18 @@
     },
     {
       "type": "asset",
-      "name": "component---src-pages-odd-index-tsx-db0dfd477b8bb5d9027c.js",
-      "size": 3442,
+      "name": "component---src-pages-odd-index-tsx-654eeeb8ae9b65616c23.js",
+      "size": 3285,
       "emitted": false,
       "comparedForEmit": false,
       "cached": true,
       "info": {
         "immutable": true,
-        "contenthash": "db0dfd477b8bb5d9027c",
+        "contenthash": "654eeeb8ae9b65616c23",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "component---src-pages-odd-index-tsx-db0dfd477b8bb5d9027c.js.map"
+          "sourceMap": "component---src-pages-odd-index-tsx-654eeeb8ae9b65616c23.js.map"
         }
       },
       "chunkNames": [
@@ -1366,7 +1049,7 @@
       ],
       "assets": [
         {
-          "name": "webpack-runtime-377b37810be434a42098.js"
+          "name": "webpack-runtime-6f2a493c2a040fd877cb.js"
         },
         {
           "name": "polyfill-eff5516aecb98910eca6.js"
@@ -1389,16 +1072,16 @@
       ],
       "assets": [
         {
-          "name": "webpack-runtime-377b37810be434a42098.js"
+          "name": "webpack-runtime-6f2a493c2a040fd877cb.js"
         },
         {
-          "name": "styles.609abb593ebe18e72668.css"
+          "name": "styles.e7ee6e1a688e004a3bef.css"
         },
         {
           "name": "framework-d7a99b2260fd753c2009.js"
         },
         {
-          "name": "app-50b251d4712d468950b9.js"
+          "name": "app-6949eb4b851225cf9f7d.js"
         }
       ],
       "filteredAssets": 0,
@@ -1417,10 +1100,10 @@
       ],
       "assets": [
         {
-          "name": "commons-820aac0dd3e9ef2b7f55.js"
+          "name": "commons-599ab301f603d173641d.js"
         },
         {
-          "name": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-2ded3eb74ebe1ab501c4.js"
+          "name": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-c8c6d75b3284b3d56191.js"
         },
         {
           "name": "component---libs-dnb-components-error-pages-src-pages-404-tsx-a6e9754e182f904c3bcb.js"
@@ -1442,10 +1125,10 @@
       ],
       "assets": [
         {
-          "name": "commons-820aac0dd3e9ef2b7f55.js"
+          "name": "commons-599ab301f603d173641d.js"
         },
         {
-          "name": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-2ded3eb74ebe1ab501c4.js"
+          "name": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-c8c6d75b3284b3d56191.js"
         },
         {
           "name": "component---libs-dnb-components-error-pages-src-pages-500-tsx-860921147e19db9ee385.js"
@@ -1467,10 +1150,10 @@
       ],
       "assets": [
         {
-          "name": "commons-820aac0dd3e9ef2b7f55.js"
+          "name": "commons-599ab301f603d173641d.js"
         },
         {
-          "name": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-2ded3eb74ebe1ab501c4.js"
+          "name": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-c8c6d75b3284b3d56191.js"
         },
         {
           "name": "component---libs-dnb-gatsby-themes-spa-build-src-pages-404-tsx-7e8924fc5059dcd3bda0.js"
@@ -1492,10 +1175,10 @@
       ],
       "assets": [
         {
-          "name": "commons-820aac0dd3e9ef2b7f55.js"
+          "name": "commons-599ab301f603d173641d.js"
         },
         {
-          "name": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-2ded3eb74ebe1ab501c4.js"
+          "name": "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-c8c6d75b3284b3d56191.js"
         },
         {
           "name": "component---libs-dnb-gatsby-themes-spa-build-src-pages-500-tsx-40e0cd7c2f2a9bb87717.js"
@@ -1518,16 +1201,16 @@
       ],
       "assets": [
         {
-          "name": "styles.609abb593ebe18e72668.css"
+          "name": "styles.e7ee6e1a688e004a3bef.css"
         },
         {
-          "name": "commons-820aac0dd3e9ef2b7f55.js"
+          "name": "commons-599ab301f603d173641d.js"
         },
         {
-          "name": "9a759d7050e6a5322085db5c1231f6715327cfc9-ef84d0817e823c781245.js"
+          "name": "9a759d7050e6a5322085db5c1231f6715327cfc9-9d34372d67e52cb27014.js"
         },
         {
-          "name": "component---src-pages-index-tsx-67ed153174fe2a082cd3.js"
+          "name": "component---src-pages-index-tsx-c06833d07223f33efcf4.js"
         }
       ],
       "filteredAssets": 0,
@@ -1547,21 +1230,21 @@
       ],
       "assets": [
         {
-          "name": "styles.609abb593ebe18e72668.css"
+          "name": "styles.e7ee6e1a688e004a3bef.css"
         },
         {
-          "name": "commons-820aac0dd3e9ef2b7f55.js"
+          "name": "commons-599ab301f603d173641d.js"
         },
         {
-          "name": "9a759d7050e6a5322085db5c1231f6715327cfc9-ef84d0817e823c781245.js"
+          "name": "9a759d7050e6a5322085db5c1231f6715327cfc9-9d34372d67e52cb27014.js"
         },
         {
-          "name": "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js"
+          "name": "component---src-pages-odd-form-index-tsx-4e19be5e2aeb8194236d.js"
         }
       ],
       "filteredAssets": 0,
       "assetsSize": null,
-      "filteredAuxiliaryAssets": 36,
+      "filteredAuxiliaryAssets": 23,
       "auxiliaryAssetsSize": null,
       "children": {},
       "childAssets": {}
@@ -1576,46 +1259,21 @@
       ],
       "assets": [
         {
-          "name": "styles.609abb593ebe18e72668.css"
+          "name": "styles.e7ee6e1a688e004a3bef.css"
         },
         {
-          "name": "commons-820aac0dd3e9ef2b7f55.js"
+          "name": "commons-599ab301f603d173641d.js"
         },
         {
-          "name": "9a759d7050e6a5322085db5c1231f6715327cfc9-ef84d0817e823c781245.js"
+          "name": "9a759d7050e6a5322085db5c1231f6715327cfc9-9d34372d67e52cb27014.js"
         },
         {
-          "name": "component---src-pages-odd-index-tsx-db0dfd477b8bb5d9027c.js"
+          "name": "component---src-pages-odd-index-tsx-654eeeb8ae9b65616c23.js"
         }
       ],
       "filteredAssets": 0,
       "assetsSize": null,
       "filteredAuxiliaryAssets": 23,
-      "auxiliaryAssetsSize": null,
-      "children": {},
-      "childAssets": {}
-    },
-    "component---src-pages-odd-thanks-index-tsx": {
-      "name": "component---src-pages-odd-thanks-index-tsx",
-      "chunks": [
-        532,
-        351,
-        239
-      ],
-      "assets": [
-        {
-          "name": "styles.609abb593ebe18e72668.css"
-        },
-        {
-          "name": "commons-820aac0dd3e9ef2b7f55.js"
-        },
-        {
-          "name": "component---src-pages-odd-thanks-index-tsx-d924ea3db5eaf170a4fd.js"
-        }
-      ],
-      "filteredAssets": 0,
-      "assetsSize": null,
-      "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": null,
       "children": {},
       "childAssets": {}
@@ -1632,13 +1290,13 @@
     {
       "id": 143,
       "files": [
-        "app-50b251d4712d468950b9.js"
+        "app-6949eb4b851225cf9f7d.js"
       ]
     },
     {
       "id": 658,
       "files": [
-        "webpack-runtime-377b37810be434a42098.js"
+        "webpack-runtime-6f2a493c2a040fd877cb.js"
       ]
     },
     {
@@ -1686,31 +1344,25 @@
     {
       "id": 691,
       "files": [
-        "component---src-pages-index-tsx-67ed153174fe2a082cd3.js"
+        "component---src-pages-index-tsx-c06833d07223f33efcf4.js"
       ]
     },
     {
       "id": 444,
       "files": [
-        "component---src-pages-odd-form-index-tsx-f3f7a19f460fdd797aac.js"
+        "component---src-pages-odd-form-index-tsx-4e19be5e2aeb8194236d.js"
       ]
     },
     {
       "id": 829,
       "files": [
-        "component---src-pages-odd-index-tsx-db0dfd477b8bb5d9027c.js"
-      ]
-    },
-    {
-      "id": 239,
-      "files": [
-        "component---src-pages-odd-thanks-index-tsx-d924ea3db5eaf170a4fd.js"
+        "component---src-pages-odd-index-tsx-654eeeb8ae9b65616c23.js"
       ]
     },
     {
       "id": 532,
       "files": [
-        "styles.609abb593ebe18e72668.css"
+        "styles.e7ee6e1a688e004a3bef.css"
       ]
     },
     {
@@ -1722,19 +1374,19 @@
     {
       "id": 351,
       "files": [
-        "commons-820aac0dd3e9ef2b7f55.js"
+        "commons-599ab301f603d173641d.js"
       ]
     },
     {
       "id": 218,
       "files": [
-        "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-2ded3eb74ebe1ab501c4.js"
+        "7e317e4d2a34ad1b4ea6b496e14bf1fea9e528dc-c8c6d75b3284b3d56191.js"
       ]
     },
     {
       "id": 154,
       "files": [
-        "9a759d7050e6a5322085db5c1231f6715327cfc9-ef84d0817e823c781245.js"
+        "9a759d7050e6a5322085db5c1231f6715327cfc9-9d34372d67e52cb27014.js"
       ]
     }
   ]
